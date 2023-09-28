@@ -1,5 +1,7 @@
 # GrizzlyPlot
 
+*Note: this is a snapshot of the main [Grizzlyplot repo](https://github.com/dylanhmorris/grizzlyplot) as it was used in the paper "[Stability of Monkeypox Virus in Body Fluids and Wastewater](https://wwwnc.cdc.gov/eid/article/29/10/23-0824_article)", taken with the aim of improving reproducibility*
+
 ## A Python library for grammar-of-graphics style plotting with Matplotlib and Polars
 
 ## Introduction
